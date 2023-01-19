@@ -6,4 +6,6 @@ Download APK :
 
 ## Screenshots
 
-<img src='https://raw.githubusercontent.com/GH0STH4CKER/BMI-Calculator-App/main/Screenshot_20230118-145758.png' width='280px' style="color: red">
+<kbd>
+<img src='https://raw.githubusercontent.com/GH0STH4CKER/BMI-Calculator-App/main/Screenshot_20230118-145758.png' width='280px'>
+</kbd>
