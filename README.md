@@ -3,7 +3,7 @@ Calculates BMI value and Displays weight category.
 
 <img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white'>
 Download APK : 
-<a href='https://github.com/GH0STH4CKER/BMI-Calculator-App/releases/download/v3/bmi_calculator_v3.apk'>From here</a>
+<a href='https://github.com/GH0STH4CKER/BMI-Calculator-App/releases/download/v4/bmi_calculator_v4-4.apk'>From here</a>
 <br></br>
 
 <img src='https://img.shields.io/badge/Permissions-None%20Required-blue?style=flat&logo=android'>
